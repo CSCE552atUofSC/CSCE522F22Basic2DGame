@@ -7,6 +7,8 @@ TagManager:
   - Wall
   - Laser
   - Scene Manager
+  - Game Manager
+  - Asteroid
   layers:
   - Default
   - TransparentFX
